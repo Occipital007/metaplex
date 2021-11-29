@@ -1,0 +1,62 @@
+{
+  "name": "AngelHeartz #4",
+  "symbol": "AH",
+  "description": "Inspired by Byzantine angels, sacred geometry and the work of Dr Dee",
+  "seller_fee_basis_points": 333,
+  "image": "image.png",
+  "external_url": "https://www.gosmartnft.com",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "IrisBlack"
+    },
+    {
+      "trait_type": "Motion",
+      "value": "Shift4"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Triangle1"
+    },
+    {
+      "trait_type": "Magick",
+      "value": "Verse11"
+    },
+    {
+      "trait_type": "LunaGlyph",
+      "value": "LunaSouth"
+    },
+    {
+      "trait_type": "SolGlyph",
+      "value": "SolWest"
+    },
+    {
+      "trait_type": "IgnisGlyph",
+      "value": "IgnisWest"
+    },
+    {
+      "trait_type": "EleGlyph",
+      "value": "ElemEast"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Phaleg5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DYVCn3p1dFG5Zhndz4XhWXGsTu83P1NNSaAHCgj42m57",
+        "share": 100
+      }
+    ]
+  }
+}
