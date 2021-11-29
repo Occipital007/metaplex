@@ -1,0 +1,11 @@
+{
+  "name": "metaplex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/metaplex-foundation/metaplex.git",
+  "author": "Occipital007 <94182204+Occipital007@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
